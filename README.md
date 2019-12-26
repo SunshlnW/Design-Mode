@@ -6,9 +6,9 @@
 - [x] 2. 面向对象设计原则
 - [x] 3. Template Method模式方法
 - [x] 4. 策略模式
-- [ ] 5. 观察者模式
-- [ ] 6. 装饰模式
-- [ ] 7. 桥模式
+- [x] 5. 观察者模式
+- [x] 6. 装饰模式
+- [x] 7. 桥模式
 - [ ] 8. Factory Method工厂方法
 - [ ] 9. Abstact Factory抽象工厂
 - [ ] 10. prototype
