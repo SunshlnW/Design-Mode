@@ -11,8 +11,8 @@
 - [x] 7. 桥模式
 - [x] 8. Factory Method工厂方法
 - [x] 9. Abstact Factory抽象工厂
-- [ ] 10. prototype
-- [ ] 11. builder构建器
+- [x] 10. prototype
+- [x] 11. builder构建器
 - [ ] 12. Singleton单件模式
 - [ ] 13. Flyweight享元模式
 - [ ] 14. Facade门面模式
