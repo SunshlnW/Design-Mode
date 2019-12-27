@@ -10,7 +10,7 @@
 - [x] 6. 装饰模式
 - [x] 7. 桥模式
 - [x] 8. Factory Method工厂方法
-- [ ] 9. Abstact Factory抽象工厂
+- [x] 9. Abstact Factory抽象工厂
 - [ ] 10. prototype
 - [ ] 11. builder构建器
 - [ ] 12. Singleton单件模式
