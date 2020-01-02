@@ -13,11 +13,11 @@
 - [x] 9. Abstact Factory抽象工厂
 - [x] 10. prototype
 - [x] 11. builder构建器
-- [ ] 12. Singleton单件模式
-- [ ] 13. Flyweight享元模式
-- [ ] 14. Facade门面模式
-- [ ] 15. Proxy代理模式
-- [ ] 16. Adapter适配器
+- [x] 12. Singleton单件模式
+- [x] 13. Flyweight享元模式
+- [x] 14. Facade门面模式
+- [x] 15. Proxy代理模式
+- [x] 16. Adapter适配器
 - [ ] 17. Mediator中介者
 - [ ] 18. State状态模式
 - [ ] 19. Memento备忘录
